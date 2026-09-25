@@ -1,0 +1,28 @@
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/appsettings.Development.json
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/appsettings.json
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/Learning C#.staticwebassets.endpoints.json
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/Learning C#
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/Learning C#.deps.json
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/Learning C#.runtimeconfig.json
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/Learning C#.dll
+/Users/georgejones/Learning C#/Learning C#/bin/Debug/net10.0/Learning C#.pdb
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.AssemblyInfoInputs.cache
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.AssemblyInfo.cs
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.csproj.CoreCompileInputs.cache
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.MvcApplicationPartsAssemblyInfo.cache
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/scopedcss/bundle/Learning C#.styles.css
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/staticwebassets.build.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/staticwebassets.development.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/swae.build.ex.cache
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.dll
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/refint/Learning C#.dll
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.pdb
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/Learning C#.genruntimeconfig.cache
+/Users/georgejones/Learning C#/Learning C#/obj/Debug/net10.0/ref/Learning C#.dll
